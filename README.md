@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kshitizkhatri
 - 👀 I’m interested in ML/AI/DL
-- 🌱 I’m currently learning the nuances of NLP. I keep revisiting the ML/DL techniques to keep myself updated
-- 💞️ I’m looking to collaborate on anything python/ML
+- 🌱 Building production-grade AI infrastructure — RAG pipelines, agent harnesses, and retrieval systems that actually ship. Current focus: LLM integration patterns, tiered memory architectures, MCP tool ecosystems, and hybrid dense/sparse search at scale.
+Interested in: agent architecture · context engineering · vector search · DSPy · MLOps
 - 📫 How to reach me  - LinkedIn - https://www.linkedin.com/in/kshitiz-khatri-06933758/ | Twitter - https://twitter.com/KhatriKshitiz
 
 <!---
